@@ -15639,6 +15639,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Company\\Details.cshtml",
+      "TargetPath": "Views\\Company\\Details.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -15651,6 +15656,26 @@
     {
       "FilePath": "d:\\Github\\DangVanDuc797\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Company\\Delete.cshtml",
+      "TargetPath": "Views\\Company\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Company\\Create.cshtml",
+      "TargetPath": "Views\\Company\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Company\\Edit.cshtml",
+      "TargetPath": "Views\\Company\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "d:\\Github\\DangVanDuc797\\Views\\Company\\Index.cshtml",
+      "TargetPath": "Views\\Company\\Index.cshtml",
       "FileKind": "mvc"
     }
   ],
